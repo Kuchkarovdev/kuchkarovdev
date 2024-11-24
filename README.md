@@ -1,4 +1,4 @@
-# Ulug'bek Web Portfolio
+# Kuchkarov dev Portfolio
 
 **Kucharov Dev Portfolio** - bu veb-dasturchining ishlarini va xizmatlarini namoyish qilish uchun yaratilgan zamonaviy va professional veb-sayt. Ushbu sayt orqali foydalanuvchilar mening xizmatlarim, loyihalarim va tajribam haqida batafsil ma'lumot olishlari mumkin.
 
@@ -12,9 +12,7 @@
 
 ## Saytni ko'rish
 
-GitHub Pages orqali saytni jonli ko'rishingiz mumkin:  
-[https://[username].github.io/](https://[username].github.io/)  
-*(Havoladagi `[username]` o‘rniga GitHub profilingiz nomini yozing.)*
+https://kuchkarovdev.github.io/kuchkarovdev
 
 ## Texnologiyalar
 
@@ -27,5 +25,5 @@ GitHub Pages orqali saytni jonli ko'rishingiz mumkin:
 
 1. **Repository’ni klonlash**:
    ```bash
-   git clone https://github.com/[username]/[repository-name].git
+https://kuchkarovdev.github.io/kuchkarovdev
 
